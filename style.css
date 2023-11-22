@@ -1,0 +1,28 @@
+html {
+    scroll-behavior: smooth;
+    ;
+}
+
+body {
+    background: rgb(142,236,243);
+background: linear-gradient(90deg, rgba(142,236,243,1) 30%, rgba(215,255,243,1) 53%);
+}
+.container-carousel {
+    padding-left: 30%;
+}
+
+.container-Home {
+    padding-top: 10%;
+}
+
+div.page {
+    min-height: 1000px;
+}
+
+.card:hover{
+    /* filter: brightness(50%);
+    -webkit-filter: brightness(50%); */
+
+    box-shadow: 0px 0px 10px black;
+  
+}
